@@ -13,11 +13,11 @@ https://github.com/SharmaHarvinder7/Excel-Sales-Analytics/blob/main/Customers%20
 
     **4.** India Net Sales Performance Report[Net Sales Performance Report](https://github.com/SharmaHarvinder7/Excel-Sales-Analytics/blob/main/India%20Net%20Sales%20Performance.pdf)
 
-    **5.** Division report [Division report]()
+    **5.** Division report [Division report](https://github.com/SharmaHarvinder7/Excel-Sales-Analytics/blob/main/Division%20Report.pdf)
 
-    **6.** Top 5 and Bottom 5 Products [Top 5 and Bottom 5 Products]
+    **6.** Top 5 and Bottom 5 Products [Top 5 and Bottom 5 Products](https://github.com/SharmaHarvinder7/Excel-Sales-Analytics/blob/main/5%20top%20bottom%20Products%20with%20Qty%20sold.pdf)
 
-    **7.** Top 5 Countries Net Sales Performance [Net Sales Performance]
+    **7.** Top 5 Countries Net Sales Performance [Net Sales Performance](https://github.com/SharmaHarvinder7/Excel-Sales-Analytics/blob/main/Top%205%20Countries%20Net%20Sales%20Performance%202021.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
