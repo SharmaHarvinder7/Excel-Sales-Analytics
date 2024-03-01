@@ -1,5 +1,4 @@
 # Excel-Sales-Analytics
-https://github.com/SharmaHarvinder7/Excel-Sales-Analytics/blob/main/Customers%20Performance%20Report.pdf
 ## Sales Report :
 
 
