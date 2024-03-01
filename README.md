@@ -13,6 +13,12 @@ https://github.com/SharmaHarvinder7/Excel-Sales-Analytics/blob/main/Customers%20
 
     **4.** India Net Sales Performance Report[Net Sales Performance Report](https://github.com/SharmaHarvinder7/Excel-Sales-Analytics/blob/main/India%20Net%20Sales%20Performance.pdf)
 
+    **5.** Division report [Division report]()
+
+    **6.** Top 5 and Bottom 5 Products [Top 5 and Bottom 5 Products]
+
+    **7.** Top 5 Countries Net Sales Performance [Net Sales Performance]
+
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
